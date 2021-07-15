@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:8080/gitops/</loc>
+    <loc>/gitops-hugo/</loc>
     <lastmod>2021-07-14T09:20:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:8080/gitops/posts/quote/</loc>
+    <loc>/gitops-hugo/posts/quote/</loc>
     <lastmod>2021-07-14T09:20:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:8080/gitops/posts/</loc>
+    <loc>/gitops-hugo/posts/</loc>
     <lastmod>2021-07-14T09:20:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:8080/gitops/categories/</loc>
+    <loc>/gitops-hugo/categories/</loc>
   </url><url>
-    <loc>http://localhost:8080/gitops/tags/</loc>
+    <loc>/gitops-hugo/tags/</loc>
   </url>
 </urlset>

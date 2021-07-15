@@ -1,8 +1,7 @@
-baseURL = "/"
+baseURL = "/gitops-hugo"
 
 languageCode = "en-us"
 title = "gitops demo app"
 theme = "ananke"
 
 RelativeURLs=true
-CanonifyURLs=true
