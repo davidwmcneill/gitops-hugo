@@ -1,7 +1,7 @@
-baseURL = "gitops-hugo"
+relativeURLs = false
+baseURL = "http://localhost:8080/gitops-hugo"
 
 languageCode = "en-us"
 title = "gitops demo app"
 theme = "ananke"
 
-RelativeURLs=true
