@@ -1,4 +1,4 @@
-#baseURL = "/"
+baseURL = "gitops-hugo"
 
 languageCode = "en-us"
 title = "gitops demo app"
