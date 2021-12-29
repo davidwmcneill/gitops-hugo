@@ -2,6 +2,6 @@ relativeURLs = false
 baseURL = "http://localhost:8080/gitops-hugo"
 
 languageCode = "en-us"
-title = "gitops demo app"
+title = "demo app"
 theme = "ananke"
 
