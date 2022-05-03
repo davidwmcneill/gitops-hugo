@@ -11,3 +11,6 @@ build:
 
 dev:
 	hugo server
+
+tilt:
+	tilt up
